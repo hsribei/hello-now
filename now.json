@@ -1,0 +1,8 @@
+{
+  "type": "static",
+  "build": {
+    "env": {
+      "DATE_ENV_VARIABLE": "now"
+    }
+  }
+}
