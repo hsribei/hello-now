@@ -1,3 +1,13 @@
+# FIXED
+
+This is undocumented, but adding `"public": true` to `now.json` is what made it work for me.
+
+Using `now` and answering `y` when it asks if the deployment should be public **is not enough**.
+
+Keeping repro instructions below for historic purposes.
+
+---
+
 # Dockerfile Builds for Static Deployments
 ## With User-Defined Build-Time Environment Variables
 

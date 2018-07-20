@@ -1,5 +1,6 @@
 {
   "type": "static",
+  "public": true,
   "build": {
     "env": {
       "DATE_ENV_VARIABLE": "now"
